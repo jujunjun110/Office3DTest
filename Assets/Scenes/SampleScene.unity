@@ -750,13 +750,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.06811059, y: 0.13673441, z: -0.009424126, w: 0.98821855}
-  m_LocalPosition: {x: -0.92, y: 1.31, z: -1.41}
+  m_LocalRotation: {x: -0.0074243792, y: 0.9918006, z: -0.068357475, w: -0.10772074}
+  m_LocalPosition: {x: 0.93, y: 1.31, z: 4.39}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 7.885, y: 15.755001, z: 0}
+  m_LocalEulerAnglesHint: {x: 7.885, y: 192.39699, z: 0}
 --- !u!1 &1226498587
 GameObject:
   m_ObjectHideFlags: 0
@@ -991,7 +991,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 55ee1d184d4104500b33a273c8e4426b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 55ee1d184d4104500b33a273c8e4426b,
         type: 3}
@@ -1241,8 +1241,9 @@ Transform:
   - {fileID: 847577610}
   - {fileID: 723103764}
   - {fileID: 1226498588}
+  - {fileID: 1855611419}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1855611417
 GameObject:
@@ -1276,7 +1277,7 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 64
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 10, y: 10, z: 10}
+  m_BoxSize: {x: 5, y: 10, z: 10}
   m_BoxOffset: {x: 0, y: 0, z: 0}
   m_NearClip: 0.3
   m_FarClip: 1000
@@ -1301,12 +1302,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1855611417}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.3, y: 1.84, z: -0.67}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.96999997, y: 0.74, z: -0.38999993}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_Father: {fileID: 1414538308}
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2076509017
 GameObject:
